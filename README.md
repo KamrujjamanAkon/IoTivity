@@ -37,5 +37,7 @@ If the build is successfully done, then the output of the build can be found in 
 The following two applications show how to use **IoTivity Libs** in iOS application.
 
 ####IoTivitySimpleServer
+https://github.com/KamrujjamanAkon/IoTivitySimpleServer-iOS
 
 ####IoTivitySimpleClient
+https://github.com/KamrujjamanAkon/IoTivitySimpleClient-iOS
