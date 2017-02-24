@@ -34,7 +34,7 @@ If the build is successfully done, then the output of the build can be found in 
 `IoTivity/out/ios/arm64/debug/`
       
 ##Sample Applications
-The following two applications show how to use **IoTivity Libs** in iOS application.
+The following two applications show how to use **IoTivity** in iOS application.
 
 ####IoTivitySimpleServer
 https://github.com/KamrujjamanAkon/IoTivitySimpleServer-iOS
